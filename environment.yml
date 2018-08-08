@@ -26,4 +26,5 @@ dependencies:
     - imgurpython
     - SQLAlchemy
     - PyMySQL
+    - lxml
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
