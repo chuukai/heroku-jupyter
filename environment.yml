@@ -27,4 +27,6 @@ dependencies:
     - SQLAlchemy
     - PyMySQL
     - lxml
+    - html5lib
+    - BeautifulSoup4
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
